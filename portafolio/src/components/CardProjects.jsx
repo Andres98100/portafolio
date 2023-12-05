@@ -5,7 +5,7 @@ export default function MyCarousel() {
         <Carousel id="projects" className="rounded-xl max-w-7xl m-auto">
             <div className="pb-28 text-white p-4 text-center object-cover">
                 <img
-                    src="https://media.licdn.com/dms/image/D4E2DAQFuOrvzFv8wXQ/profile-treasury-image-shrink_800_800/0/1692208743086?e=1696543200&v=beta&t=UbsikJvCWKYYk2sMndfx0UqJKbM6BoX0ONAz1fhOOeA"
+                    src="https://www.aydentownsley.com/img/hbnb.png"
                     alt="logo airbnbHolberton"
                     className="m-auto rounded-full mb-9"
                     width={200}
